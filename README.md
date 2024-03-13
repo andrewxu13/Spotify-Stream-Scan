@@ -1,4 +1,9 @@
-#Spotify project
+# Spotify Project Documentation
 
+## Overview
 
---Information pending
+## Features
+
+## Getting Started
+
+### Prerequisites
