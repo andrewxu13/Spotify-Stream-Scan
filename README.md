@@ -1,4 +1,4 @@
-# Spotify Project Documentation
+# Spotify Stream Scan Documentation
 
 ## Overview
 
